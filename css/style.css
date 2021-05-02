@@ -204,6 +204,10 @@ header.menu_lite a, header.menu_lite a:hover{
     color: #fafafa;
 	padding: 72px 0 80px 0;
 }
+.pattern{
+    background-image: radial-gradient(#333333 1px, #121212 1px);
+    background-size: 40px 40px;
+}
 .name_wrap {
     margin-bottom: 30px;
 	padding-bottom: 30px;
@@ -560,7 +564,7 @@ footer {
     color: #9E9E9E;
 	font-family: Productsans-Bold;
 	padding-bottom: 150px;
-    padding-top: 30px;
+    padding-top: 56px;
 }
 .foot_innerwrap h1 a {
     color: #F2F2F2;
