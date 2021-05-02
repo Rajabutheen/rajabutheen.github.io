@@ -27,6 +27,10 @@ ul {
 :focus {
 	outline: 0;
 }
+::selection{
+    color:#ffffff;
+    background: #00adb5;
+}
 .padd_lft_rgt {
     padding-left: 33px !important;
     padding-right: 33px !important;
