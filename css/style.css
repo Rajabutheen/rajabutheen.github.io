@@ -19,10 +19,6 @@ body{
 	font-family: Productsans-Regular, sans-serif;
 	margin: 0; 
 }
-/*a{
-	text-decoration:none;
-	color:#000;
-}*/
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -184,7 +180,6 @@ header.menu_lite a, header.menu_lite a:hover{
     font-size: 14px;
     line-height: 24px;
     padding: 5px 20px;
-	/*color: #fff;*/
     text-decoration: none;
 }
 .menu_wrap ul li a:focus {
@@ -316,7 +311,6 @@ header.menu_lite a, header.menu_lite a:hover{
 .project_img_sec {
     width: 50%;
     text-align: center;
-    /*overflow: hidden;*/
 }
 .project_img_sec img {
     width: 80%;
@@ -330,11 +324,6 @@ overflow: hidden;
 .img_zoom img:hover{
     transform: scale(1.1) rotate(1deg) ;
 }
-
-/*.aln_midl{
-    width: 90%;
-    margin: 0 auto;
-}*/
 .project_even{
 	text-align: left;
 }
@@ -390,19 +379,9 @@ overflow: hidden;
     align-items: center;
 }
 .recom_name_img {
-	/*padding-left: 5px;*/
-    padding-right: 20px;
+   padding-right: 20px;
     position: relative;
 }
-/*.recom_name_img:before {
-    content: '';
-    background: #000 0% 0% no-repeat padding-box;
-    position: absolute;
-    width: 68px;
-    height: 68px;
-    opacity: .5;
-    border-radius: 50%;
-}*/
 .recom_top_sec {
     display: flex;
     align-items: center;
@@ -461,7 +440,6 @@ overflow: hidden;
     width: 90%;
     font-size: 21px;
     line-height: 43px;
-	/*padding: 5px;*/
 }
 /* design work starts */
 .design_concept {
@@ -486,7 +464,6 @@ overflow: hidden;
 } 
 .exp_desc {
     width: 60%;
-    /* margin: 30px 0; */
     padding-top: 94px;
 	padding-bottom:64px;
 }
@@ -622,7 +599,6 @@ footer {
 }
 .main_drtsec ul li {
     margin-bottom: 15px;
-    /* width: 25%; */
 }
 .spacer {
     width: 150px;
@@ -650,10 +626,7 @@ footer {
     font-size: 21px;
     line-height: 34px;
 }
-.users_inner  .overview_desc p {
-	/*font-size: 27px;
-    line-height: 42px;*/
-}
+
 .proj_ref_two {
     width: 95%;
     margin: 0 auto;
@@ -670,9 +643,6 @@ footer {
     width: 48px;
 }
 .commn_execls {
-    /*padding: 25px;
-    border: 2px solid #212121;
-    border-radius: 5px;*/
     margin: auto 0;
     margin-right: auto;
 }
@@ -703,7 +673,6 @@ footer {
 }
 .insight_wrap:last-child {
     padding-bottom: 0;
-   /* padding-top: 0;*/
 }
 .insight_item {
     width: 75%;
@@ -736,16 +705,11 @@ footer {
     width: 100%;
     padding: 40px;
 }
-.moreinfo_two, .moreinfo_four {
-   /*  padding-top: 50px; */
-    /*margin-top: 50px;*/
-}
+
 .moreinfo_three {
     margin-top: -240px;
 }
-.rg_moreinfo .moreinfo_three {
-    /*margin-top: 0px;*/
-}
+
 .passion_inner h1 {
     font-size: 66px;
     line-height: 83px;
@@ -818,9 +782,7 @@ footer {
 	header{
 		padding: 25px 0;
 	}
-	/*.projects_section {
-		background: #fff;
-	}*/	
+	
     .exp_desc{
        width:75%; 
     }
@@ -838,13 +800,7 @@ footer {
 	.project_img_sec img {
 		width: 90%;
 	}
-	/*.moreinfocom img {
-		width: 90%;
-	}*/
-	.project_item_desc_even {
-		/*width: 100%;
-		margin: 0 auto;*/
-	}
+	
 	.project_platform {
 		font-size: 34px;
 		line-height: 42px;
@@ -896,10 +852,7 @@ footer {
 		width: 25%;
 		right: -150px;
 	}
-	/*.design_wrkarea {
-		padding: 0 15px;
-		padding-top: 30px;
-	}*/
+	
 	.exp_desc {
 		width: 100%;
 	}
@@ -945,9 +898,6 @@ footer {
 	.email_identy {
 		position: absolute;
 	}
-	/*.moreinfo_three {
-		margin-top: -140px;
-	}*/
 }
 @media (max-width: 767px){
     .design_wrkarea {
@@ -1047,22 +997,15 @@ footer {
 		flex-wrap: wrap-reverse;
 		padding-top: 80px;
 	}
-	.swiper-button-prev:after, .swiper-button-next:after{
-		/*height: 30px;
-		width: 30px;*/
-	}
+	
 	.swiper-pagination.swiper-pagination-fraction{
 		letter-spacing: -1.5px;
 	}
-	/*.recom_wrk_desc p{
-		width:100%;
-	}*/
+	
 	.recom_name_img {
 		padding-right: 15px;
 	}
-	/*.design_work_left {
-		margin-bottom: 20px;
-	}*/
+	
 	.recomments_section, .experience_sec {
 		padding: 56px 0;
 	}
@@ -1121,9 +1064,7 @@ footer {
         font-size: 42px;
         line-height: 53px;
     }
-	/*.main_drtsec ul li h4{
-		padding-top: 5px;
-	}*/
+	
 	li.spacer {
 		display: none;
 	}
@@ -1140,7 +1081,6 @@ footer {
 		line-height: 34px;
 	}
 	.menu_open_wrap {
-		/* display: none; */
 		top: 26px;
 		right: 32px;
 	} 	
@@ -1148,9 +1088,6 @@ footer {
 		position: fixed;
 		padding: 33px 25px 33px 33px;
 	}
-	/* .resp_menu img {
-		padding-right: 8px;
-	} */
 	.projects_sampline h1 {
 		font-size: 27px;
 		line-height: 42px;
@@ -1197,11 +1134,8 @@ footer {
 	.menu_arrow{
         display: none;
     }
-    /*.high_word{
-        font-size:34px;
-    }*/
     .desc_pad{
-    padding-top: 40px;
+      padding-top: 40px;
     }
     .rmv_pad{
         padding-top: 0;
