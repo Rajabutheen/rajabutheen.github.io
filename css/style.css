@@ -865,8 +865,12 @@ footer {
         width: 80%;
     }
     .moreinfo_inner {
-    width: 100%;
+        width: 100%;
     }
+    .moreinfo_three {
+        margin-top: -180px;
+    }
+
 }
 @media (max-width: 991px){
 	.recom_top_navs{
@@ -1162,7 +1166,7 @@ footer {
 		padding-top: 64px;
 	}
 	.moreinfo_three {
-		margin-top: -70px;
+		margin-top: -66px;
 	}
 	.rg_user_wrap .exe_appvr_left{
 		flex-flow: row wrap;
