@@ -733,7 +733,7 @@ footer {
     /*margin-top: 50px;*/
 }
 .moreinfo_three {
-    margin-top: -240px;
+    margin-top: -228px;
 }
 .rg_moreinfo .moreinfo_three {
     /*margin-top: 0px;*/
@@ -795,6 +795,8 @@ footer {
 .social_item_resp{
 	display:none;
 }
+
+
 @media (max-width: 1024px){
 	header{
 		padding: 25px 0;
@@ -926,9 +928,9 @@ footer {
 	.email_identy {
 		position: absolute;
 	}
-	.moreinfo_three {
+	/*.moreinfo_three {
 		margin-top: -140px;
-	}
+	}*/
 }
 @media (max-width: 767px){
     .design_wrkarea {
