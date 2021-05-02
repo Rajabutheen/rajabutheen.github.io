@@ -1193,6 +1193,9 @@ footer {
         font-size: 34px;
         line-height: 53px;
     }
+    .moreinfocom img {
+    padding: 10px;
+    }
 
 }
 @media (max-width: 568px){
