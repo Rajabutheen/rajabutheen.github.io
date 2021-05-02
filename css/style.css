@@ -699,7 +699,7 @@ footer {
 }
 .insight_wrap:last-child {
     padding-bottom: 0;
-    padding-top: 0;
+   /* padding-top: 0;*/
 }
 .insight_item {
     width: 75%;
@@ -788,6 +788,15 @@ footer {
     line-height: 83px;
     color: #212121;
     text-decoration: none;
+}
+.argo_sec_four{
+    width:100%;
+}
+.padcls{
+    padding:45px 0 0;
+}
+.padtopcls{
+    padding-top: 0;
 }
 /* conclusion starts */
 .conclusion_sec .overview_desc {
