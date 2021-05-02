@@ -314,15 +314,15 @@ header.menu_lite a, header.menu_lite a:hover{
 .project_img_sec img {
     width: 80%;
 }
-/*.img_zoom{
+.img_zoom{
 overflow: hidden;
 }
 .img_zoom img{
     transition: transform .5s ease;
 }
 .img_zoom img:hover{
-    transform: scale(1.1) rotate(2deg) ;
-}*/
+    transform: scale(1.1) rotate(1deg) ;
+}
 
 /*.aln_midl{
     width: 90%;
