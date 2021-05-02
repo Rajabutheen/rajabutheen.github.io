@@ -1094,6 +1094,10 @@ footer {
 		font-size: 42px;
 		line-height: 53px;
 	}
+    .nxt_proj_abt h1 a, .nxt_proj_abt h1 a:focus, .nxt_proj_abt h1 a:hover{
+        font-size: 42px;
+        line-height: 53px;
+    }
 	/*.main_drtsec ul li h4{
 		padding-top: 5px;
 	}*/
@@ -1121,6 +1125,9 @@ footer {
 		position: fixed;
 		padding: 33px 25px 33px 33px;
 	}
+	/* .resp_menu img {
+		padding-right: 8px;
+	} */
 	.projects_sampline h1 {
 		font-size: 27px;
 		line-height: 42px;
@@ -1186,9 +1193,7 @@ footer {
         font-size: 34px;
         line-height: 53px;
     }
-    .moreinfocom img {
-    padding: 10px;
-    }
+
 }
 @media (max-width: 568px){
     .main_drtsec{
