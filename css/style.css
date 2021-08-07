@@ -318,9 +318,11 @@ header.menu_lite a, header.menu_lite a:hover{
 }
 .project_img_sec img {
     width: 80%;
+    border-radius: 16px;
 }
 .img_zoom{
-overflow: hidden;
+    overflow: hidden;
+    border-radius: 16px;
 }
 .img_zoom img{
     transition: transform .5s ease;
