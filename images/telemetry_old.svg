@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1236" height="480" viewBox="0 0 1236 480">
+  <g id="telemetry_old" transform="translate(-65 -3506)">
+    <rect id="rg_two" width="1236" height="480" transform="translate(65 3506)" fill="#f8f8f8"/>
+    <g id="Group_65631" data-name="Group 65631" transform="translate(-11)">
+      <g id="Group_65333" data-name="Group 65333" transform="translate(23 -25.614)">
+        <g id="Group_65331" data-name="Group 65331" transform="translate(159 3596.614)">
+          <g id="Group_65330" data-name="Group 65330" transform="translate(0 41.088)">
+            <g id="Group_65323" data-name="Group 65323" transform="translate(18.039 185.396)">
+              <text id="D1" transform="translate(12.961 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D1</tspan></text>
+              <text id="D2" transform="translate(38.961 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D2</tspan></text>
+              <text id="D3" transform="translate(66.961 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D3</tspan></text>
+              <text id="D4" transform="translate(92.961 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D4</tspan></text>
+              <text id="D5" transform="translate(119.961 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D5</tspan></text>
+              <text id="D6" transform="translate(145.961 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D6</tspan></text>
+              <text id="D7" transform="translate(173.961 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D7</tspan></text>
+              <text id="D8" transform="translate(199.961 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D8</tspan></text>
+              <text id="D9" transform="translate(226.961 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D9</tspan></text>
+              <text id="D10" transform="translate(263.961 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D10</tspan></text>
+              <text id="D11" transform="translate(297.961 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D11</tspan></text>
+              <text id="D12" transform="translate(332.961 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D12</tspan></text>
+              <text id="D13" transform="translate(365.961 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D13</tspan></text>
+              <text id="D14" transform="translate(400.961 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D14</tspan></text>
+              <text id="D15" transform="translate(435.961 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D15</tspan></text>
+            </g>
+            <g id="Group_65326" data-name="Group 65326" transform="translate(0 0)">
+              <g id="Group_65324" data-name="Group 65324" transform="translate(17.036 25.054)">
+                <path id="Path_20985" data-name="Path 20985" d="M4662.049,4452.326l30.465-45.5,24.775,8.809,29.585-13.87,25.095,16.716,27.266-17.75,29.141-9.66,28.207-39.464,24.435,48.265,32.555-38.732,30.543,12.454,40.181,71.186,29.537-34.841,38.752,56.3,31.653-12.589" transform="translate(-4658.799 -4348.342)" fill="none" stroke="#548235" stroke-width="1"/>
+                <g id="Group_65322" data-name="Group 65322" transform="translate(0 0)">
+                  <circle id="Ellipse_10217" data-name="Ellipse 10217" cx="3.5" cy="3.5" r="3.5" transform="translate(-0.036 99.858)" fill="#548235"/>
+                  <circle id="Ellipse_10218" data-name="Ellipse 10218" cx="3.5" cy="3.5" r="3.5" transform="translate(54.964 62.858)" fill="#548235"/>
+                  <circle id="Ellipse_10231" data-name="Ellipse 10231" cx="3.5" cy="3.5" r="3.5" transform="translate(29.964 55.858)" fill="#548235"/>
+                  <circle id="Ellipse_10219" data-name="Ellipse 10219" cx="3.5" cy="3.5" r="3.5" transform="translate(83.964 50.858)" fill="#548235"/>
+                  <circle id="Ellipse_10220" data-name="Ellipse 10220" cx="3.5" cy="3.5" r="3.5" transform="translate(109.964 65.858)" fill="#548235"/>
+                  <circle id="Ellipse_10221" data-name="Ellipse 10221" cx="3.5" cy="3.5" r="3.5" transform="translate(135.964 48.858)" fill="#548235"/>
+                  <circle id="Ellipse_10222" data-name="Ellipse 10222" cx="3.5" cy="3.5" r="3.5" transform="translate(165.964 38.858)" fill="#548235"/>
+                  <circle id="Ellipse_10223" data-name="Ellipse 10223" cx="3.5" cy="3.5" r="3.5" transform="translate(193.964 -0.142)" fill="#548235"/>
+                  <circle id="Ellipse_10224" data-name="Ellipse 10224" cx="3.5" cy="3.5" r="3.5" transform="translate(218.964 46.858)" fill="#548235"/>
+                  <circle id="Ellipse_10225" data-name="Ellipse 10225" cx="3.5" cy="3.5" r="3.5" transform="translate(251.964 9.858)" fill="#548235"/>
+                  <circle id="Ellipse_10226" data-name="Ellipse 10226" cx="3.5" cy="3.5" r="3.5" transform="translate(280.964 20.858)" fill="#548235"/>
+                  <circle id="Ellipse_10227" data-name="Ellipse 10227" cx="3.5" cy="3.5" r="3.5" transform="translate(321.964 90.858)" fill="#548235"/>
+                  <circle id="Ellipse_10228" data-name="Ellipse 10228" cx="3.5" cy="3.5" r="3.5" transform="translate(351.964 58.858)" fill="#548235"/>
+                  <circle id="Ellipse_10229" data-name="Ellipse 10229" cx="3.5" cy="3.5" r="3.5" transform="translate(389.964 112.858)" fill="#548235"/>
+                  <circle id="Ellipse_10230" data-name="Ellipse 10230" cx="3.5" cy="3.5" r="3.5" transform="translate(419.964 102.858)" fill="#548235"/>
+                </g>
+              </g>
+              <g id="Group_65325" data-name="Group 65325" transform="translate(0 0)">
+                <text id="_193" data-name="193" transform="translate(20 113.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">193</tspan></text>
+                <text id="_275" data-name="275" transform="translate(59 68.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">275</tspan></text>
+                <text id="_258" data-name="258" transform="translate(84 106.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">258</tspan></text>
+                <text id="_282" data-name="282" transform="translate(116 64.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">282</tspan></text>
+                <text id="_251" data-name="251" transform="translate(143 110.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">251</tspan></text>
+                <text id="_277" data-name="277" transform="translate(165 55.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">277</tspan></text>
+                <text id="_296" data-name="296" transform="translate(196 85.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">296</tspan></text>
+                <text id="_372" data-name="372" transform="translate(223 11.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">372</tspan></text>
+                <text id="_287" data-name="287" transform="translate(252 46.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">287</tspan></text>
+                <text id="_332" data-name="332" transform="translate(316 36.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">332</tspan></text>
+                <text id="_202" data-name="202" transform="translate(354 137.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">202</tspan></text>
+                <text id="_271" data-name="271" transform="translate(382 69.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">271</tspan></text>
+                <text id="_172" data-name="172" transform="translate(426 118.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">172</tspan></text>
+                <text id="_193-2" data-name="193" transform="translate(458 113.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">193</tspan></text>
+                <text id="_355" data-name="355" transform="translate(283 18.912)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">355</tspan></text>
+              </g>
+            </g>
+          </g>
+          <text id="Visitors_count_in_000" data-name="Visitors count in &apos;000" transform="translate(110 11)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-110.31" y="0">Visitors count in &apos;000</tspan></text>
+        </g>
+        <g id="Group_65332" data-name="Group 65332" transform="translate(728.216 3596.614)">
+          <g id="Group_65329" data-name="Group 65329" transform="translate(0 18.038)">
+            <g id="Group_65327" data-name="Group 65327" transform="translate(17.036 208.446)">
+              <text id="D1-2" data-name="D1" transform="translate(12.748 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D1</tspan></text>
+              <text id="D2-2" data-name="D2" transform="translate(38.748 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D2</tspan></text>
+              <text id="D3-2" data-name="D3" transform="translate(66.748 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D3</tspan></text>
+              <text id="D4-2" data-name="D4" transform="translate(92.748 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D4</tspan></text>
+              <text id="D5-2" data-name="D5" transform="translate(119.748 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D5</tspan></text>
+              <text id="D6-2" data-name="D6" transform="translate(145.748 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D6</tspan></text>
+              <text id="D7-2" data-name="D7" transform="translate(175.748 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D7</tspan></text>
+              <text id="D8-2" data-name="D8" transform="translate(201.748 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D8</tspan></text>
+              <text id="D9-2" data-name="D9" transform="translate(228.748 10.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-14.587" y="0">D9</tspan></text>
+              <text id="D10-2" data-name="D10" transform="translate(263.748 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D10</tspan></text>
+              <text id="D11-2" data-name="D11" transform="translate(298.748 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D11</tspan></text>
+              <text id="D12-2" data-name="D12" transform="translate(332.748 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D12</tspan></text>
+              <text id="D13-2" data-name="D13" transform="translate(365.748 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D13</tspan></text>
+              <text id="D14-2" data-name="D14" transform="translate(401.748 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D14</tspan></text>
+              <text id="D15-2" data-name="D15" transform="translate(435.748 11.516)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-21.176" y="0">D15</tspan></text>
+            </g>
+            <g id="Group_65328" data-name="Group 65328" transform="translate(0 0)">
+              <g id="Group_65324-2" data-name="Group 65324" transform="translate(19.041 15.032)">
+                <path id="Path_20985-2" data-name="Path 20985" d="M4662.049,4451.224l30.484-63.843L4717.5,4412.1l28.815-24.721,25.826,31.721,26.851-18.435,28.16,23.346,29.961-68.23,23.453,64.875,33.071-47.152,30.615,29.961,40.276,77.481,29.3-72.106,37.656,92.9,30.617-29.47" transform="translate(-4657.804 -4352.09)" fill="none" stroke="#548235" stroke-width="1"/>
+                <g id="Group_65322-2" data-name="Group 65322" transform="translate(0 0)">
+                  <circle id="Ellipse_10217-2" data-name="Ellipse 10217" cx="4" cy="4" r="4" transform="translate(-0.257 94.929)" fill="#548235"/>
+                  <circle id="Ellipse_10218-2" data-name="Ellipse 10218" cx="4" cy="4" r="4" transform="translate(55.743 54.929)" fill="#548235"/>
+                  <circle id="Ellipse_10231-2" data-name="Ellipse 10231" cx="3.5" cy="3.5" r="3.5" transform="translate(30.743 31.929)" fill="#548235"/>
+                  <circle id="Ellipse_10219-2" data-name="Ellipse 10219" cx="4" cy="4" r="4" transform="translate(83.743 31.929)" fill="#548235"/>
+                  <circle id="Ellipse_10220-2" data-name="Ellipse 10220" cx="3.5" cy="3.5" r="3.5" transform="translate(110.743 62.929)" fill="#548235"/>
+                  <circle id="Ellipse_10221-2" data-name="Ellipse 10221" cx="3.5" cy="3.5" r="3.5" transform="translate(137.743 44.929)" fill="#548235"/>
+                  <circle id="Ellipse_10222-2" data-name="Ellipse 10222" cx="3" cy="3" r="3" transform="translate(166.743 67.929)" fill="#548235"/>
+                  <circle id="Ellipse_10223-2" data-name="Ellipse 10223" cx="3.5" cy="3.5" r="3.5" transform="translate(195.743 -0.071)" fill="#548235"/>
+                  <circle id="Ellipse_10224-2" data-name="Ellipse 10224" cx="3.5" cy="3.5" r="3.5" transform="translate(219.743 63.929)" fill="#548235"/>
+                  <circle id="Ellipse_10225-2" data-name="Ellipse 10225" cx="3.5" cy="3.5" r="3.5" transform="translate(252.743 17.929)" fill="#548235"/>
+                  <circle id="Ellipse_10226-2" data-name="Ellipse 10226" cx="3.5" cy="3.5" r="3.5" transform="translate(282.743 47.929)" fill="#548235"/>
+                  <circle id="Ellipse_10227-2" data-name="Ellipse 10227" cx="3.5" cy="3.5" r="3.5" transform="translate(323.743 124.929)" fill="#548235"/>
+                  <circle id="Ellipse_10228-2" data-name="Ellipse 10228" cx="4.5" cy="4.5" r="4.5" transform="translate(350.743 49.929)" fill="#548235"/>
+                  <circle id="Ellipse_10229-2" data-name="Ellipse 10229" cx="4.5" cy="4.5" r="4.5" transform="translate(388.743 145.929)" fill="#548235"/>
+                  <circle id="Ellipse_10230-2" data-name="Ellipse 10230" cx="4" cy="4" r="4" transform="translate(419.743 115.929)" fill="#548235"/>
+                </g>
+              </g>
+              <g id="Group_65325-2" data-name="Group 65325">
+                <text id="_898" data-name="898" transform="translate(19.784 126.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">898</tspan></text>
+                <text id="_1_444" data-name="1,444" transform="translate(62.784 40.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-29.599" y="0">1,444</tspan></text>
+                <text id="_1_246" data-name="1,246" transform="translate(89.784 88.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-29.599" y="0">1,246</tspan></text>
+                <text id="_1_460" data-name="1,460" transform="translate(117.784 40.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-29.599" y="0">1,460</tspan></text>
+                <text id="_1_179" data-name="1,179" transform="translate(144.784 95.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-29.599" y="0">1,179</tspan></text>
+                <text id="_1_341" data-name="1,341" transform="translate(169.784 50.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-29.599" y="0">1,341</tspan></text>
+                <text id="_1_141" data-name="1,141" transform="translate(202.784 102.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-29.599" y="0">1,141</tspan></text>
+                <text id="_1_725" data-name="1,725" transform="translate(228.784 10.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-29.599" y="0">1,725</tspan></text>
+                <text id="_1169" data-name="1169" transform="translate(263.784 98.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-26.355" y="0">1169</tspan></text>
+                <text id="_1315" data-name="1315" transform="translate(328.784 54.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-26.355" y="0">1315</tspan></text>
+                <text id="_638" data-name="638" transform="translate(354.784 114.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">638</tspan></text>
+                <text id="_1298" data-name="1298" transform="translate(386.784 60.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-26.355" y="0">1298</tspan></text>
+                <text id="_456" data-name="456" transform="translate(426.784 139.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">456</tspan></text>
+                <text id="_699" data-name="699" transform="translate(456.784 120.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-19.767" y="0">699</tspan></text>
+                <text id="_1575" data-name="1575" transform="translate(290.784 28.961)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-26.355" y="0">1575</tspan></text>
+              </g>
+            </g>
+          </g>
+          <text id="Page_views_in_000" data-name="Page views in &apos;000" transform="translate(95.784 11)" fill="#212121" font-size="13" font-family="Calibri"><tspan x="-95.932" y="0">Page views in &apos;000</tspan></text>
+        </g>
+      </g>
+      <g id="Group_65467" data-name="Group 65467" transform="translate(-8 37)">
+        <g id="Group_65461" data-name="Group 65461" transform="translate(-6265 -1093)">
+          <g id="Rectangle_8018" data-name="Rectangle 8018" transform="translate(6443 4923)" fill="none" stroke="#707070" stroke-width="1">
+            <rect width="340" height="55" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="339" height="54" rx="7.5" fill="none"/>
+          </g>
+          <text id="Average_session_duration:_03:45" data-name="Average session duration: 03:45" transform="translate(6483 4957)" fill="#212121" font-size="18" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">Average session duration: 03:45</tspan></text>
+        </g>
+        <g id="Group_65462" data-name="Group 65462" transform="translate(-5906 -1093)">
+          <g id="Rectangle_8018-2" data-name="Rectangle 8018" transform="translate(6443 4923)" fill="none" stroke="#707070" stroke-width="1">
+            <rect width="382" height="55" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="381" height="54" rx="7.5" fill="none"/>
+          </g>
+          <text id="Average_page_views_per_session:_2.05" data-name="Average page views per session: 2.05" transform="translate(6483 4957)" fill="#212121" font-size="18" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">Average page views per session: 2.05</tspan></text>
+        </g>
+        <g id="Group_65463" data-name="Group 65463" transform="translate(-5510 -1093)">
+          <g id="Rectangle_8018-3" data-name="Rectangle 8018" transform="translate(6443 4923)" fill="none" stroke="#707070" stroke-width="1">
+            <rect width="294" height="55" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="293" height="54" rx="7.5" fill="none"/>
+          </g>
+          <text id="Average_bounce_rate:_67_" data-name="Average bounce rate: 67%" transform="translate(6483 4957)" fill="#212121" font-size="18" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">Average bounce rate: 67%</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

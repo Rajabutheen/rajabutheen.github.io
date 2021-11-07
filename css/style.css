@@ -564,6 +564,22 @@ footer {
 }
 
 /* project details page */
+.paragraph_pad{
+padding-top: 42px;
+}
+.subhead{
+font-size: 27px;
+padding-top: 72px;
+}
+.content_img img{
+    padding: 53px 0 66px 0;
+}
+.feature_bd img{
+    padding: 27px 0 17px 0;   
+}
+.match_link a{
+    color:#C65A25;
+}
 .proj_mainwrap {
     padding: 40px 0;
     margin: 50px 0;
@@ -623,14 +639,14 @@ footer {
 .projects_sampline h2 {
     font-size: 42px;
     line-height: 53px;
-	margin: 0;
-    padding-bottom: 48px;
+	margin: 0;    
 }
 .overview_desc p {
     margin: 0;
     width: 64%;
     font-size: 21px;
     line-height: 34px;
+    padding-top: 21px;
 }
 
 .proj_ref_two {
@@ -643,7 +659,9 @@ footer {
     text-align: center;
     align-items: center;
     justify-content: center;
-    height: 170px;
+    height: 88px;
+    margin-top:42px;
+    margin-bottom:17px;
 }
 .commn_execls img {
     width: 48px;
@@ -675,7 +693,7 @@ footer {
 	padding-bottom: 50px;
 }
 .insight_wrap {
-    padding: 48px 0;
+    padding: 34px 0;
 }
 .insight_wrap:last-child {
     padding-bottom: 0;
@@ -751,15 +769,15 @@ footer {
 }
 .nxt_proj_abt a, .nxt_proj_abt a:focus, .nxt_proj_abt a:hover {
     margin: 0;
-    font-size: 17px;
+    font-size: 21px;
     line-height: 53px;
     color:#212121;
     text-decoration: none;
 }
 .nxt_proj_abt h1 a, .nxt_proj_abt h1 a:focus, .nxt_proj_abt h1 a:hover {
     margin: 0;
-    font-size: 83px;
-    line-height: 83px;
+    font-size: 66px;
+    line-height: 66px;
     color: #212121;
     text-decoration: none;
 }
@@ -773,9 +791,6 @@ footer {
     padding-top: 0;
 }
 /* conclusion starts */
-.conclusion_sec .overview_desc {
-    padding-top: 90px;
-}
 .social_item{
 	display:block;
 }
@@ -906,6 +921,9 @@ footer {
 	}
 }
 @media (max-width: 767px){
+    .content_img img{
+        padding: 0px;
+    }
     .design_wrkarea {
         padding-top: 42px;
     }
@@ -1124,9 +1142,9 @@ footer {
 	.users_inner1 .projects_sampline h2{
 		padding-bottom: 0px;
 	}
-	.conclusion_sec .overview_desc {
+	/*.conclusion_sec .overview_desc {
 		padding-top: 64px;
-	}
+	}*/
 	.moreinfo_three {
 		margin-top: -66px;
 	}
