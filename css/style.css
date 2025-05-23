@@ -12,6 +12,7 @@
   src: url('fonts/Productsans-Bold.ttf');
 }
 body{
+    font-family: "Boldonse", sans-serif;
 	font-family: Productsans-Regular, sans-serif;
 	margin: 0; 
 }
@@ -142,7 +143,7 @@ a.menulink:hover .menu_arrow {
 }
 /* header starts*/
 header {
-    background: #121212;
+    background: #000000;
     color: #fafafa;
     padding: 25px 35px;
 }
@@ -173,7 +174,7 @@ header.menu_lite a, header.menu_lite a:hover{
     justify-content: flex-end;
 }
 .menu_wrap ul li {
-    padding: 5px 20px;
+    padding: 5px 0px;
 	margin-right: 1px;
 }
 .menu_wrap ul li a {
@@ -195,14 +196,14 @@ header.menu_lite a, header.menu_lite a:hover{
 }
 /* intro sec start */
 .into_section {
-    background: #121212;
+    background: #000000;
     color: #fafafa;
 	padding: 72px 0 80px 0;
 }
-.pattern{
+/*.pattern{
     background-image: radial-gradient(#383838 1px, #121212 1px);
     background-size: 40px 40px;
-}
+}*/
 .name_wrap {
     margin-bottom: 30px;
 	padding-bottom: 30px;
@@ -537,7 +538,7 @@ header.menu_lite a, header.menu_lite a:hover{
 }
 /* footer sec */
 footer {
-    background: #121212;
+    background: #000000;
 	padding: 10% 0 5% 0;
 }
 .foot_innerwrap h1 {
@@ -920,6 +921,9 @@ padding-top: 72px;
 	}
 }
 @media (max-width: 767px){
+    .name_wrap h3{
+        width:85%;
+    }
     .content_img img{
         padding: 0px;
     }
