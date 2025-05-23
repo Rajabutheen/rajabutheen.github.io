@@ -11,10 +11,6 @@
   font-family:Productsans-Bold;
   src: url('fonts/Productsans-Bold.ttf');
 }
-/*@font-face {
-  font-family:Gilroy-Bold;
-  src: url('fonts/Gilroy-ExtraBold.otf');
-}*/
 body{
 	font-family: Productsans-Regular, sans-serif;
 	margin: 0; 
@@ -396,7 +392,6 @@ header.menu_lite a, header.menu_lite a:hover{
     align-items: center;
 }
 .recom_name_detail h1 {
-/*    font-family: Gilroy-Bold;*/
     font-family: Productsans-Bold;    
     font-size: 27px;
     line-height: 40px;
