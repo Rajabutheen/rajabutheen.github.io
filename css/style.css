@@ -467,7 +467,7 @@ header.menu_lite a, header.menu_lite a:hover{
     padding-top: 124px;
 } 
 .exp_desc {
-    width: 60%;
+    width: 70%;
     padding-top: 94px;
 	padding-bottom:64px;
 }
@@ -484,8 +484,8 @@ header.menu_lite a, header.menu_lite a:hover{
 	position: relative;
 }
 .resume_lkndin li a {
-    font-size: 27px;
-    line-height: 43px;
+    font-size: 21px;
+    line-height: 27px;
     color: #212121;
     font-family: Productsans-Bold;
     text-decoration: underline;
@@ -510,14 +510,12 @@ header.menu_lite a, header.menu_lite a:hover{
     justify-content: space-between;
 }
 .comp_loc_exp ul li {
-    font-size: 21px;
-    line-height: 30px;
+    font-size: 17px;
+    line-height: 34px;
     font-family: Productsans-Regular;
+    color: #363636;
 }
 .comp_loc_exp ul li.dateofexp {
-    font-size: 21px;
-    line-height: 34px;
-    font-family: Productsans-Bold;
     color: #606060;
 }
 .expcomp_profile {
@@ -801,10 +799,6 @@ padding-top: 72px;
 	header{
 		padding: 25px 0;
 	}
-	
-    .exp_desc{
-       width:75%; 
-    }
     .project_item_desc_even .nonecls {
         display: none;
     }
@@ -870,10 +864,6 @@ padding-top: 72px;
 	.recom_top_navs{
 		width: 25%;
 		right: -150px;
-	}
-	
-	.exp_desc {
-		width: 100%;
 	}
 	.main_drtsec ul li{
 		width: 33%;
