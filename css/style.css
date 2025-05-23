@@ -180,7 +180,7 @@ header.menu_lite a, header.menu_lite a:hover{
 .menu_wrap ul li a {
     font-size: 14px;
     line-height: 24px;
-    padding: 5px 20px;
+    padding: 5px 15px;
     text-decoration: none;
 }
 .menu_wrap ul li a:focus {
@@ -199,11 +199,9 @@ header.menu_lite a, header.menu_lite a:hover{
     background: #000000;
     color: #fafafa;
 	padding: 72px 0 80px 0;
+    /*padding: 56px 0 96px 0;*/
+/*    border-radius: 0px 0px 56px 56px;*/
 }
-/*.pattern{
-    background-image: radial-gradient(#383838 1px, #121212 1px);
-    background-size: 40px 40px;
-}*/
 .name_wrap {
     margin-bottom: 30px;
 	padding-bottom: 30px;
@@ -261,8 +259,8 @@ header.menu_lite a, header.menu_lite a:hover{
     padding-top: 74px;
 }
 .projects_sampline h1 {
-    font-size: 53px;
-    line-height: 66px;
+    font-size: 42px;
+    line-height: 53px;
     font-family: Productsans-Regular;
 	color: #212121;
 }
